@@ -1,0 +1,6 @@
+langchain
+chromadb
+pdfplumber
+sentence-transformers
+huggingface-hub
+gradio
